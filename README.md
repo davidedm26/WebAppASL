@@ -1,11 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/X6gYvgPn)
-## Progetto: ``Gestione Prenotazioni ASL``
-
-### NOME: ``Davide``
-### COGNOME: ``Di Matteo``
-### MATRICOLA: ``N46005733``
-
-
-### DOCENTE: ``De Simone``
-
-
+I developed this WebApp in 4 days.
+It is a Web Application that allows an 'Azienda Sanitaria Locale' to manage dates.
+It is only a small overview of my programming skills with: JS, NodeJS, MongoDB, HTML, CSS, ExpressJS.
