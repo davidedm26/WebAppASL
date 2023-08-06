@@ -1,0 +1,247 @@
+/* corpo della pagina */
+body{
+    background: #f6fbff; 
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height:60% ;
+    overflow: auto;
+    display: flex ;
+    flex-direction: column;
+  }
+
+header, main, footer{
+  min-width: 955px;
+  width:100%;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header .container, main .container, footer .container{
+  max-width: 955px;
+  margin:  auto;
+}
+/* intestazione */
+header {
+  padding: 25px 0 25px 0;
+  background: rgba(255, 255, 255, 0.984);
+  overflow: auto;
+  border-bottom: 1px solid #ffffff;
+  height: 20%;
+}
+/* main */
+main{
+  background: #fff;
+  border-radius: 0 5px 5px 5px;
+  overflow: auto;
+  background-image: url("background.png");
+  
+  background-size: cover;
+  height: 60%;
+  min-height: 900px;
+}
+/* contenuto del main */
+main .content{
+  border-radius: 0px 5px 5px 5px;
+  text-align: left;
+  background: #eee;
+  padding: 20px 0px 30px 20px;
+  overflow: visible;
+}
+
+/* footer */
+footer{
+  background: #3198ff;
+  position: bottom absolute ;
+  bottom:0; 
+  border-top: 1px solid #ddd;
+  padding: 40px 0 0px 0;
+  
+  height: 100%;
+  min-height:200px ;
+  width: 100%;
+  opacity: 85%;
+}
+
+h1{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 3em;
+  color: rgb(4, 18, 221);
+  float: left;
+  width: 370px;
+}
+
+h2{
+  float:left;
+  color:green;
+  font-size: xx-large;
+  clear: both;
+}
+
+/* navigatore dell'intestazione */
+header nav{
+  float: right;
+  width: 285px;
+}
+
+/* riferimenti */
+a{
+  color: #f00;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* riga per le notifiche */
+.notification-row{
+  height: 50px;
+  text-align: center;
+  font-size:xx-large;
+  color: green;
+}
+
+/* riga per notificare l'errore sul cofice fiscale */
+.notifica_errore{
+  color: red;
+  font-size: small;
+}
+
+/* selezionatori */
+.tabs a span{
+  display: inline-block;
+  border-radius: 5px 5px 0 0;
+  width: 100px;
+  margin-right: 10px;
+  text-align: center;
+  background: #ddd;
+  padding: 5px;
+}
+
+/* selezionatore attivo */
+.tabs a span.active{
+  background: #eee;
+}
+
+/* blocco contenente l'anagrafica del paziente */
+.datipaziente {
+  display: block;
+  width: 500px;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  float: right;
+  text-align: center;
+}
+
+/* prima riga del blocco anagrafica */
+.datipaziente :first-child{
+  font-size: xx-large;
+}
+.datipaziente li {
+  padding: 3px 0 3px 0;
+}
+
+/* menu a tendina */
+.date_list, .specialization_list, .med_list, .orari_list{
+  font-size: x-large;
+  float:left;
+}
+
+/* contenuto principale */
+div .content{
+  font-size:x-large;
+  font-weight: 200;
+  overflow: auto;
+  height: 100%;
+}
+div.content .datipaziente{
+  color: rgb(10, 72, 7);
+}
+main .content p{
+  padding: 10px 0px 10px 0px;
+}
+.codice_fiscale{
+  color: green;
+  font-weight: 400;
+}
+
+/* edit della tabella per visualizzare le prenotazioni */
+.prenotazioniTable td, .prenotazioniTable th{
+  padding:2px;
+  vertical-align: middle;
+}
+.prenotazioniTable th:first-child,
+.prenotazioniTable td:first-child {
+  width: 20%;
+}
+.prenotazioniTable th:nth-child(2),
+.prenotazioniTable td:nth-child(2) {
+  width: 10%;
+}
+.prenotazioniTable th:nth-child(3),
+.prenotazioniTable td:nth-child(3) {
+  width: 18%;
+}
+.prenotazioniTable {
+  border-spacing: 0;
+  border: 1px solid #63636b;
+  width: 80%;
+  padding: 10px 10px 10px 10px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* sitemap del footer */
+footer .sitemap{
+  width: 70%;
+  font-size: large;
+}
+footer .sitemap .left{
+  float: left;
+}
+footer .sitemap .right{
+  float: right;
+}
+
+/* logo asl */
+.logo{
+  width: 25%;
+}
+
+/* edit dei tasti */
+button{
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-style:oblique ;
+}
+
+/* edit delle caselle di inserimento */
+input {
+padding: 10px;
+font-size: 16px;
+border: 1px solid #ccc;
+border-radius: 4px;
+}
+input:focus {
+border-color: #4CAF50;
+box-shadow: 0 0 5px #4CAF50;
+}
+
+/* edit dei menu a tendina */
+select {
+background-color: #f2f2f2;
+color: #333;
+font-size: 14px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+border: 1px solid #ccc;
+padding: 5px;
+width: 400px;
+height: 40px;
+outline: none;
+}
+select:hover {
+background-color: #e6e6e6;
+}
+select:focus {
+border-color: #0066ff;
+}

@@ -1,0 +1,223 @@
+[{
+  "_id": {
+    "$oid": "6496fc34f3828d8f015d3c85"
+  },
+  "medicoId": 5,
+  "pazienteCf": "BNAGNI00B06F839I",
+  "data": {
+    "$date": "2023-07-07T00:00:00.000Z"
+  },
+  "ora": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496fea7d0b2cc8685f7be9d"
+  },
+  "medicoId": 1,
+  "pazienteCf": "DMTDVD00H22F839S",
+  "data": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "ora": 9
+},{
+  "_id": {
+    "$oid": "6496fea7d0b2cc8685f7be9e"
+  },
+  "medicoId": 2,
+  "pazienteCf": "VRSGNC75C45H501U",
+  "data": {
+    "$date": "2023-07-06T00:00:00.000Z"
+  },
+  "ora": 14
+},{
+  "_id": {
+    "$oid": "6496fea7d0b2cc8685f7be9f"
+  },
+  "medicoId": 3,
+  "pazienteCf": "FRRGSL92L54H501B",
+  "data": {
+    "$date": "2023-07-06T00:00:00.000Z"
+  },
+  "ora": 11
+},{
+  "_id": {
+    "$oid": "6496fea7d0b2cc8685f7bea0"
+  },
+  "medicoId": 4,
+  "pazienteCf": "MRLPLR88D25H501C",
+  "data": {
+    "$date": "2023-07-07T00:00:00.000Z"
+  },
+  "ora": 16
+},{
+  "_id": {
+    "$oid": "6496fea7d0b2cc8685f7bea1"
+  },
+  "medicoId": 5,
+  "pazienteCf": "SMNLRN95P10H501D",
+  "data": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "ora": 10
+},{
+  "_id": {
+    "$oid": "6496fea7d0b2cc8685f7bea2"
+  },
+  "medicoId": 6,
+  "pazienteCf": "BNCLRA91M25H501E",
+  "data": {
+    "$date": "2023-07-06T00:00:00.000Z"
+  },
+  "ora": 9
+},{
+  "_id": {
+    "$oid": "6496fea7d0b2cc8685f7bea3"
+  },
+  "medicoId": 7,
+  "pazienteCf": "RSSMRO85P10F205Y",
+  "data": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "ora": 13
+},{
+  "_id": {
+    "$oid": "6496fea7d0b2cc8685f7bea4"
+  },
+  "medicoId": 8,
+  "pazienteCf": "BNCLRA90E55H501M",
+  "data": {
+    "$date": "2023-07-07T00:00:00.000Z"
+  },
+  "ora": 15
+},{
+  "_id": {
+    "$oid": "6496fea7d0b2cc8685f7bea5"
+  },
+  "medicoId": 9,
+  "pazienteCf": "GRSMAR80A07D612R",
+  "data": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "ora": 12
+},{
+  "_id": {
+    "$oid": "6496fea7d0b2cc8685f7bea6"
+  },
+  "medicoId": 10,
+  "pazienteCf": "BNAGNI00B06F839I",
+  "data": {
+    "$date": "2023-07-06T00:00:00.000Z"
+  },
+  "ora": 16
+},{
+  "_id": {
+    "$oid": "6496ff17f3828d8f015d3cb1"
+  },
+  "medicoId": 7,
+  "pazienteCf": "VRSGNC75C45H501U",
+  "data": {
+    "$date": "2023-06-30T00:00:00.000Z"
+  },
+  "ora": 13,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496ff9ea6c69e5eb58f8024"
+  },
+  "medicoId": 1,
+  "pazienteCf": "DMTDVD00H22F839S",
+  "data": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "ora": 9
+},{
+  "_id": {
+    "$oid": "6496ff9ea6c69e5eb58f8025"
+  },
+  "medicoId": 2,
+  "pazienteCf": "VRSGNC75C45H501U",
+  "data": {
+    "$date": "2023-07-06T00:00:00.000Z"
+  },
+  "ora": 14
+},{
+  "_id": {
+    "$oid": "6496ff9ea6c69e5eb58f8026"
+  },
+  "medicoId": 3,
+  "pazienteCf": "FRRGSL92L54H501B",
+  "data": {
+    "$date": "2023-07-06T00:00:00.000Z"
+  },
+  "ora": 11
+},{
+  "_id": {
+    "$oid": "6496ff9ea6c69e5eb58f8027"
+  },
+  "medicoId": 4,
+  "pazienteCf": "MRLPLR88D25H501C",
+  "data": {
+    "$date": "2023-07-07T00:00:00.000Z"
+  },
+  "ora": 16
+},{
+  "_id": {
+    "$oid": "6496ff9ea6c69e5eb58f8028"
+  },
+  "medicoId": 5,
+  "pazienteCf": "SMNLRN95P10H501D",
+  "data": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "ora": 10
+},{
+  "_id": {
+    "$oid": "6496ff9ea6c69e5eb58f8029"
+  },
+  "medicoId": 6,
+  "pazienteCf": "BNCLRA91M25H501E",
+  "data": {
+    "$date": "2023-07-06T00:00:00.000Z"
+  },
+  "ora": 9
+},{
+  "_id": {
+    "$oid": "6496ff9ea6c69e5eb58f802a"
+  },
+  "medicoId": 7,
+  "pazienteCf": "RSSMRO85P10F205Y",
+  "data": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "ora": 13
+},{
+  "_id": {
+    "$oid": "6496ff9ea6c69e5eb58f802b"
+  },
+  "medicoId": 8,
+  "pazienteCf": "BNCLRA90E55H501M",
+  "data": {
+    "$date": "2023-07-07T00:00:00.000Z"
+  },
+  "ora": 15
+},{
+  "_id": {
+    "$oid": "6496ff9ea6c69e5eb58f802c"
+  },
+  "medicoId": 9,
+  "pazienteCf": "GRSMAR80A07D612R",
+  "data": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "ora": 12
+},{
+  "_id": {
+    "$oid": "6496ff9ea6c69e5eb58f802d"
+  },
+  "medicoId": 10,
+  "pazienteCf": "BNAGNI00B06F839I",
+  "data": {
+    "$date": "2023-07-06T00:00:00.000Z"
+  },
+  "ora": 16
+}]

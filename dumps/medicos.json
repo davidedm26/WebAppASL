@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "649334fce944463705cb9a05"
+  },
+  "id_medico": 1,
+  "nome": "Luca",
+  "cognome": "Marelli",
+  "specializzazione": "Cardiologia"
+},{
+  "_id": {
+    "$oid": "6493366b37a4f0973c9c61ba"
+  },
+  "id_medico": 2,
+  "nome": "Vincenzo",
+  "cognome": "De Luca",
+  "specializzazione": "Pediatria"
+},{
+  "_id": {
+    "$oid": "6495c4179bdb1fee98b6bc39"
+  },
+  "id_medico": 3,
+  "nome": "Marco",
+  "cognome": "Esposito",
+  "specializzazione": "Cardiologia"
+},{
+  "_id": {
+    "$oid": "6496aac024e097990d0205b6"
+  },
+  "id_medico": 4,
+  "nome": "Sara",
+  "cognome": "Renzi",
+  "specializzazione": "Pediatria"
+},{
+  "_id": {
+    "$oid": "6496f6b5f44fdacacfe58d2f"
+  },
+  "id_medico": 5,
+  "nome": "Walter",
+  "cognome": "De Maggio",
+  "specializzazione": "Ortopedia"
+},{
+  "_id": {
+    "$oid": "6496f6d955ec46f20b03697e"
+  },
+  "id_medico": 6,
+  "nome": "Maria",
+  "cognome": "Rodriguez",
+  "specializzazione": "Pediatria"
+},{
+  "_id": {
+    "$oid": "6496f70988aba0dc6ddf03a3"
+  },
+  "id_medico": 7,
+  "nome": "Davide",
+  "cognome": "Lorenzini",
+  "specializzazione": "Podologia"
+},{
+  "_id": {
+    "$oid": "6496f8d004013949ace4df1b"
+  },
+  "id_medico": 8,
+  "nome": "Marco",
+  "cognome": "Rossi",
+  "specializzazione": "Dermatologia"
+},{
+  "_id": {
+    "$oid": "6496f8d004013949ace4df1c"
+  },
+  "id_medico": 9,
+  "nome": "Giulia",
+  "cognome": "Bianchi",
+  "specializzazione": "Ortopedia"
+},{
+  "_id": {
+    "$oid": "6496f8d004013949ace4df1d"
+  },
+  "id_medico": 10,
+  "nome": "Alessandro",
+  "cognome": "Verdi",
+  "specializzazione": "Cardiologia"
+},{
+  "_id": {
+    "$oid": "6496f8d004013949ace4df1e"
+  },
+  "id_medico": 11,
+  "nome": "Elena",
+  "cognome": "Ricci",
+  "specializzazione": "Ginecologia"
+},{
+  "_id": {
+    "$oid": "6496f8d004013949ace4df1f"
+  },
+  "id_medico": 12,
+  "nome": "Francesca",
+  "cognome": "Ferrari",
+  "specializzazione": "Ginecologia"
+}]

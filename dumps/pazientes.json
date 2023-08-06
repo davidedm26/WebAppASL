@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "6496fa7896aa1e63e9057c8d"
+  },
+  "codiceFiscale": "DMTDVD00H22F839S",
+  "nome": "Davide",
+  "cognome": "Di Matteo",
+  "dataNascita": "2000-06-22",
+  "luogoNascita": "Napoli"
+},{
+  "_id": {
+    "$oid": "6496fb0cf546f4f35d46cdf4"
+  },
+  "codiceFiscale": "VRSGNC75C45H501U",
+  "nome": "Giovanni",
+  "cognome": "Verdi",
+  "dataNascita": "1975-03-15",
+  "luogoNascita": "Firenze"
+},{
+  "_id": {
+    "$oid": "6496fb0cf546f4f35d46cdf5"
+  },
+  "codiceFiscale": "FRRGSL92L54H501B",
+  "nome": "Giulia",
+  "cognome": "Ferrari",
+  "dataNascita": "1992-12-25",
+  "luogoNascita": "Bologna"
+},{
+  "_id": {
+    "$oid": "6496fb0cf546f4f35d46cdf6"
+  },
+  "codiceFiscale": "MRLPLR88D25H501C",
+  "nome": "Paolo",
+  "cognome": "Marelli",
+  "dataNascita": "1988-04-18",
+  "luogoNascita": "Palermo"
+},{
+  "_id": {
+    "$oid": "6496fb0cf546f4f35d46cdf7"
+  },
+  "codiceFiscale": "SMNLRN95P10H501D",
+  "nome": "Lorenzo",
+  "cognome": "Simoni",
+  "dataNascita": "1995-07-10",
+  "luogoNascita": "Roma"
+},{
+  "_id": {
+    "$oid": "6496fb0cf546f4f35d46cdf8"
+  },
+  "codiceFiscale": "BNCLRA91M25H501E",
+  "nome": "Martina",
+  "cognome": "Bianchi",
+  "dataNascita": "1991-11-25",
+  "luogoNascita": "Milano"
+},{
+  "_id": {
+    "$oid": "6496fb33e6800b60255c80d4"
+  },
+  "codiceFiscale": "RSSMRO85P10F205Y",
+  "nome": "Mario",
+  "cognome": "Rossi",
+  "dataNascita": "1985-09-10",
+  "luogoNascita": "Roma"
+},{
+  "_id": {
+    "$oid": "6496fb33e6800b60255c80d5"
+  },
+  "codiceFiscale": "BNCLRA90E55H501M",
+  "nome": "Laura",
+  "cognome": "Bianchi",
+  "dataNascita": "1990-04-15",
+  "luogoNascita": "Milano"
+},{
+  "_id": {
+    "$oid": "6496fb33e6800b60255c80d6"
+  },
+  "codiceFiscale": "GRSMAR80A07D612R",
+  "nome": "Maria",
+  "cognome": "Grasso",
+  "dataNascita": "1980-08-07",
+  "luogoNascita": "Palermo"
+},{
+  "_id": {
+    "$oid": "6496fba3d1400f5070dee35a"
+  },
+  "codiceFiscale": "BNAGNI00B06F839I",
+  "nome": "Gino",
+  "cognome": "Baiano",
+  "dataNascita": "2000-02-06",
+  "luogoNascita": "Napoli"
+}]
